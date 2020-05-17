@@ -1,2 +1,0 @@
-# safeErrorDataHandler
-Created with CodeSandbox
